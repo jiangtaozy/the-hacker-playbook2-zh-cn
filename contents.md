@@ -13,4 +13,8 @@
       1. 硬件
       1. 开源软件与商业软件
       1. 建立你的工具箱
-
+      1. 安装Kali Linux
+      1. Windows VM
+      1. 安装Windows
+      1. 用Powershell启动
+      1. Easy-P
