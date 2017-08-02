@@ -18,3 +18,7 @@
       1. 安装Windows
       1. 用Powershell启动
       1. Easy-P
+   1. 学习
+      1. Metasploitable 2
+      1. Binary Exploitation
+   1. 总结
