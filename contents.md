@@ -22,3 +22,10 @@
       1. Metasploitable 2
       1. Binary Exploitation
    1. 总结
+1. 射门前-扫描网络
+   1. 被动发现-开源智能(Open Source Intelligence, OSINT)
+      1. Recon-NG
+      1. Discover Scripts
+      1. Spiderfoot
+   1. 创建密码列表
+
