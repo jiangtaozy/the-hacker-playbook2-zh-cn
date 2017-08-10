@@ -28,4 +28,5 @@
       1. Discover Scripts
       1. Spiderfoot
    1. 创建密码列表
-
+      1. Wordhound
+      1. Brutescrape
